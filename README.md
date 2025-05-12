@@ -31,7 +31,7 @@ Se incluyen relaciones como:
 - Comentarios por usuario por tarea
 - Historial por cada modificación
 
-Puedes ver una descripción detallada de las relaciones en el archivo [`modelo.tex`](./modelo.tex).
+Puedes ver una descripción detallada de las relaciones en el archivo [`ModeloERD.pdf`](./ModeloERD.pdf).
 
 
 
